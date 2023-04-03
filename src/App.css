@@ -3,11 +3,15 @@
   padding: 0;
 }
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-header {
   background-color: #282c34;
   height: 100vh;
   color: white;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
 }
